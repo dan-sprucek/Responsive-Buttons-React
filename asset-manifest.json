@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Responsive-Buttons-React/static/css/main.16d9f762.chunk.css",
+    "main.js": "/Responsive-Buttons-React/static/js/main.274c56c7.chunk.js",
+    "main.js.map": "/Responsive-Buttons-React/static/js/main.274c56c7.chunk.js.map",
+    "runtime-main.js": "/Responsive-Buttons-React/static/js/runtime-main.1f507eb5.js",
+    "runtime-main.js.map": "/Responsive-Buttons-React/static/js/runtime-main.1f507eb5.js.map",
+    "static/js/2.691a5a87.chunk.js": "/Responsive-Buttons-React/static/js/2.691a5a87.chunk.js",
+    "static/js/2.691a5a87.chunk.js.map": "/Responsive-Buttons-React/static/js/2.691a5a87.chunk.js.map",
+    "index.html": "/Responsive-Buttons-React/index.html",
+    "precache-manifest.5a9f97bc2fdde753d3604eac44bac658.js": "/Responsive-Buttons-React/precache-manifest.5a9f97bc2fdde753d3604eac44bac658.js",
+    "service-worker.js": "/Responsive-Buttons-React/service-worker.js",
+    "static/css/main.16d9f762.chunk.css.map": "/Responsive-Buttons-React/static/css/main.16d9f762.chunk.css.map",
+    "static/js/2.691a5a87.chunk.js.LICENSE.txt": "/Responsive-Buttons-React/static/js/2.691a5a87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f507eb5.js",
+    "static/js/2.691a5a87.chunk.js",
+    "static/css/main.16d9f762.chunk.css",
+    "static/js/main.274c56c7.chunk.js"
+  ]
+}
