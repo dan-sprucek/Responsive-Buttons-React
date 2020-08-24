@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5458fc8e0498e0e3367afbe1dc1712ad",
+    "revision": "9a3938ed80edb330b9f513b5ce5ca13d",
     "url": "/Responsive-Buttons-React/index.html"
   },
   {
-    "revision": "c4380481dbaa6b288f2c",
+    "revision": "e863142711c514ab8e41",
     "url": "/Responsive-Buttons-React/static/css/main.16d9f762.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Responsive-Buttons-React/static/js/2.691a5a87.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c4380481dbaa6b288f2c",
-    "url": "/Responsive-Buttons-React/static/js/main.274c56c7.chunk.js"
+    "revision": "e863142711c514ab8e41",
+    "url": "/Responsive-Buttons-React/static/js/main.74ea2304.chunk.js"
   },
   {
     "revision": "ca6c724043acc8b233f3",
